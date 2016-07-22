@@ -1,0 +1,5 @@
+vendor
+app/data
+var/cache/dev
+var/logs/dev.log
+*php~
